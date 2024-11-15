@@ -11,7 +11,7 @@ This backend is part of a **Retrieval-Augmented Generation (RAG)** system that i
 
 It is intended for **local use only** and was created as part of a Microsoft Innovation Challenge Hackathon. **Not for commercial use**.
 
-![image](https://res.cloudinary.com/dtzfvm1m9/image/upload/v1731435967/portfolio/chat-it-up/tskxuei2bf8vrefeivtl.jpg)
+![image](https://res.cloudinary.com/dtzfvm1m9/image/upload/v1731682216/portfolio/chat-it-up/nzdrtyk7yida5lxuqldt.jpg)
 
 ---
 
