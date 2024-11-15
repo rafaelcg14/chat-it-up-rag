@@ -46,7 +46,6 @@ azure_credentials.json
 # Transcription and temporary files
 *.wav
 *.mp3
-*.txt
 *.tmp
 
 # Uploaded/downloaded files
